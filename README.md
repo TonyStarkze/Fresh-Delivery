@@ -31,7 +31,7 @@
 
 ---
 
-A very easy and convenient web app.
+A very easy and convenient web app for local food businesses and customers.
 
 ## Getting Started
 
